@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix SchemeSeva - A3 Runtime Orchestrator",
+  "description": "AI-powered government scheme discovery and application assistance with intelligent runtime resource orchestration and service-graph reservation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
